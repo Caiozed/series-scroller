@@ -1,2 +1,2 @@
-# series-scroller
-TV series search Webpage
+# Series Scroller
+TV series search Webpage made with the TVmaze api.
